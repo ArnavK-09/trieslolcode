@@ -1,0 +1,2 @@
+# trieslolcode
+Just exploring LOLCODE
